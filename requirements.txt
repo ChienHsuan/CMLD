@@ -1,0 +1,10 @@
+numpy
+scipy
+h5py
+Pillow
+six
+opencv-python
+scikit-learn
+metric-learn
+matplotlib
+pandas
